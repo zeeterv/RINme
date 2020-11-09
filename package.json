@@ -1,13 +1,13 @@
 {
-  "name": "evobot",
-  "version": "0.9.0",
+  "name": "rinme",
+  "version": "0.5b",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Munggorn Munggornkim <piopopoooyu76@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/zeeterv/RINme",
+  "repository": "github:zeeterv/RINme",
+  "bugs": "https://github.com/zeeterv/RINme/issues",
   "engines": {
     "node": ">=12.0.0"
   },
@@ -20,7 +20,8 @@
     "soundcloud-downloader": "^0.1.6",
     "string-progressbar": "^1.0.1",
     "ytdl-core": "^4.0.3",
-    "ytdl-core-discord": "^1.2.4"
+    "ytdl-core-discord": "^1.2.4",
+    "client": "0.0.1"
   },
   "scripts": {
     "start": "node index.js"
