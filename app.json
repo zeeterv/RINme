@@ -1,7 +1,7 @@
 {
   "name": "RINme",
   "description": "Discord Bot built with discord.js",
-  "repository": "https://github.com/zeeterv/RINme",
+  "repository": "https://github.com/rinme/RINme",
   "logo": "https://gravatar.com/avatar/fec04cce8bb5e0c91ba2bae3ed55da30?s=96&d=https://www.herokucdn.com/images/ninja-avatar-96x96.png",
   "keywords": ["discord", "discordjs", "music", "bot"]
 }
